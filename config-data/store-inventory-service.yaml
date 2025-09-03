@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: central-inventory-service
+  port: 8081
